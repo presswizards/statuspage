@@ -48,9 +48,9 @@ do
   dateTime=$(date +'%Y-%m-%d %H:%M')
   if [[ $commit == true ]]
   then
-    echo $dateTime, $result >> "logs/${key}_report.log"
+    echo $dateTime, $result, $response >> "logs/${key}_report.log"
   else
-    echo "    $dateTime, $result"
+    echo "    $dateTime, $result, $response"
   fi
 done
 
