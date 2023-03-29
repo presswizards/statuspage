@@ -1,12 +1,12 @@
 [![Health Check](../../actions/workflows/health-check.yml/badge.svg)](../../actions/workflows/health-check.yml)
 
-# Statsig's Open-Source Status Page
+# Press Wizards's Open-Source Status Page
 
 We tried various Status Pages out there, and built this as a fun little hobby project to make status pages as simple as possible.
 
 ## Demo
 
-- https://status.statsig.com
+- https://presswizards.github.io/statuspage/
 
 ## Setup instructions
 
